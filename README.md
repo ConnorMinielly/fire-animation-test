@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  🔥 Fire 🔥
+   Fire Dance
 </h1>
 
 its all in the name, just a really simple test seeing how Gatsby and anime.js svg animations play together
