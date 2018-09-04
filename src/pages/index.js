@@ -32,15 +32,8 @@ class IndexPage extends React.Component {
   render() {
     return (
       <div>
-        <h1>Hi people</h1>
-        <p>Welcome to your new Gatsby site.</p>
-        <p>
-          Now go build {Math.random(1, 100) < 0.5 ? 'Hello' : 'Goodbye'}
-          something great.
-        </p>
-
-        <Link to="/page-2/">Go to page 2</Link>
         <Fire1 id="test" height={200} width={200} />
+        <Link to="/page-2/">Go to page 2</Link>
       </div>
     );
   }
