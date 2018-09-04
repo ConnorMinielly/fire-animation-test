@@ -8,3 +8,5 @@
 </h1>
 
 its all in the name, just a really simple test seeing how Gatsby and anime.js svg animations play together
+
+LIVE ON NETLIFY: https://jovial-payne-c5e7b8.netlify.com/
