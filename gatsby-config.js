@@ -6,5 +6,6 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-react-next',
     'gatsby-plugin-react-svg',
+    'gatsby-plugin-netlify',
   ],
 };
