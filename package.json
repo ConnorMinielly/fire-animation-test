@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "fire-animation-test",
+  "description": "Fire Dance",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Connor Minielly <Connor_Minielly@Outlook.com>",
   "dependencies": {
     "animejs": "^2.2.0",
     "gatsby": "^1.9.277",
