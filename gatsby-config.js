@@ -11,7 +11,7 @@ module.exports = {
       options: {
         headers: {
           '/*': [
-            "Content-Security-Policy: default-src 'self'; script-src 'self' 'nonce-someRandomNonce'; style-src 'self';",
+            "Content-Security-Policy: default-src 'self' filesystem: ; script-src 'self' filesystem: ; style-src 'self';",
           ],
         },
       },
