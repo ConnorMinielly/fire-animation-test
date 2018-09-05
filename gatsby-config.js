@@ -10,7 +10,7 @@ module.exports = {
       resolve: 'gatsby-plugin-netlify',
       options: {
         headers: {
-          '/*': ['Content-Security-Policy: default-src https: ;'],
+          '/*': ['Content-Security-Policy: default-src https:*;'],
         },
       },
     },
