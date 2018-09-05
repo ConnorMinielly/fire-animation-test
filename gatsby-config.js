@@ -10,9 +10,7 @@ module.exports = {
       resolve: 'gatsby-plugin-netlify',
       options: {
         headers: {
-          '/*': [
-            "Content-Security-Policy: default-src 'self' filesystem: ; script-src 'self' filesystem: ; style-src 'self' filesystem: ;",
-          ],
+          '/*': ["Content-Security-Policy: default-src 'unsafe-inline';"],
         },
       },
     },
