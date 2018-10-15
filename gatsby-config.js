@@ -8,11 +8,11 @@ module.exports = {
     'gatsby-plugin-react-svg',
     {
       resolve: 'gatsby-plugin-netlify',
-      // options: {
-      //   headers: {
-      //     '/*': ['Content-Security-Policy: default-src https:*;'],
-      //   },
-      // },
+      options: {
+        headers: {
+          '/*': ["Content-Security-Policy:  default-src 'none'"],
+        },
+      },
     },
   ],
 };
